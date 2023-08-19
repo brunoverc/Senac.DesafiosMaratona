@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioGerenciamentoTarefas", "DesafioGerenciamentoTarefas\DesafioGerenciamentoTarefas.csproj", "{0D99D254-5EBF-4D2A-B104-C7007774CB83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioCadastroAlunos", "DesafioCadastroAlunos\DesafioCadastroAlunos.csproj", "{A0AD3B52-680D-4502-8D19-2462069E6C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D99D254-5EBF-4D2A-B104-C7007774CB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D99D254-5EBF-4D2A-B104-C7007774CB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D99D254-5EBF-4D2A-B104-C7007774CB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D99D254-5EBF-4D2A-B104-C7007774CB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AD3B52-680D-4502-8D19-2462069E6C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AD3B52-680D-4502-8D19-2462069E6C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AD3B52-680D-4502-8D19-2462069E6C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AD3B52-680D-4502-8D19-2462069E6C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4304CC6A-AF21-4E22-8257-704F3C86C966}
+	EndGlobalSection
+EndGlobal
